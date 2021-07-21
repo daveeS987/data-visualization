@@ -1,5 +1,7 @@
 # Data Visualization
 
+## Author: Davee Sok
+
 ## Links and Resources
 
 ## Overview
